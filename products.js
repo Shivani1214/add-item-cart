@@ -1,0 +1,66 @@
+export const products = [
+    {
+      id: 1,
+      title: "humberger",
+      price: 200,
+      img: "./images/humberger.jpg",
+      quantity: 1,
+    },
+    {
+      id: 2,
+      title: "coke",
+      price: 60,
+      img: "./images/coke.jpg",
+      quantity: 1,
+    },
+    {
+      id: 3,
+      title: "fries",
+      price: 100,
+      img: "./images/fries.jpg",
+      quantity: 1,
+    },
+    {
+      id: 4,
+      title: "pepsi",
+      price: 50,
+      img: "./images/pepsi.jpg",
+      quantity: 1,
+    },
+    {
+      id: 5,
+      title: "expensive",
+      price: 400,
+      img: "./images/expensive.jpg",
+      quantity: 1,
+    },
+    {
+      id: 6,
+      title: "Manchurian",
+      price: 250,
+      img: "./images/manchurian.jpg",
+      quantity: 1,
+    },
+    {
+      id: 7,
+      title: "Indianthali",
+      price: 210,
+      img: "./images/indianthali.jpg",
+      quantity: 1,
+    },
+    {
+      id: 8,
+      title: "soup",
+      price: 250,
+      img: "./images/soup.jpg",
+      quantity: 1,
+    },
+    {
+      id: 9,
+      title: "Noodles",
+      price: 150,
+      img: "./images/noodles.jpg",
+      quantity: 1,
+    },
+  ];
+  
